@@ -10,7 +10,7 @@ To classify news articles as **real** or **fake** using semantic features from t
 
 ### 🔒 `Fake_News_Detection_Arjun_D.zip`  
 Contains the complete submission:
-- `Fake_News_Detection.ipynb`: Jupyter notebook with code and outputs
+- `Fake_News_Detection_Arjun_D.ipynb`: Jupyter notebook with code and outputs
 - `Fake_News_Detection.pdf`: Final structured report
 
 ---
